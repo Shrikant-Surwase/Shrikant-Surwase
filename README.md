@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Shrikant-Surwase](https://github.com/Shrikant-Surwase)
 
 - 💬 Ask me about **C++, python, DSA, HTML, CSS, JAVA, JS and Some new TECH!!**
-
+- 💬 LEETCODE PROFILE: [Leetcode](https://leetcode.com/Shrikant_1729/)
 - 📫 How to reach me **surwaseshrikant1729@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shrikant-surwase-139aa2224/](https://www.linkedin.com/in/shrikant-surwase-139aa2224/)
