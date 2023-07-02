@@ -11,8 +11,9 @@
 - 🌱 I’m currently learning **Web Development, 3D web, some DSA like stuff**
 
 - 👯 I’m looking to collaborate on **Some Open Source projects**
+- If you want to know about me then please feel free to visit my portfolio [MyPortfolio](https://myportfolio-abc.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shrikant-Surwase](https://github.com/Shrikant-Surwase)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Shrikant-Surwase)
 
 - 💬 Ask me about **C++, python, DSA, HTML, CSS, JAVA, JS and Some new TECH!!**
 - 💬 LEETCODE PROFILE: [Leetcode](https://leetcode.com/Shrikant_1729/)
