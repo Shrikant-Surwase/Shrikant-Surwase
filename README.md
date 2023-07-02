@@ -19,7 +19,7 @@
 - 💬 LEETCODE PROFILE: [Leetcode](https://leetcode.com/Shrikant_1729/)
 - 📫 How to reach me **surwaseshrikant1729@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shrikant-surwase-139aa2224/](https://www.linkedin.com/in/shrikant-surwase-139aa2224/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shrikant-surwase-139aa2224/)
 
 - ⚡ Fun fact **I think I am not a HUMAN!!**
 
